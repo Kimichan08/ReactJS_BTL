@@ -1,0 +1,21 @@
+.bg-navigation {
+    color: white;
+    background: #1f2a37;
+    border-bottom: 2px solid #fff;
+}
+
+.logo {
+    width: 10% !important;
+}
+
+.navigation {
+    padding-right: 0 !important;
+}
+
+.navigation-link{
+    margin-left: 20px;
+    color: rgb(211, 211, 211) !important;
+}
+.navigation-link:hover{
+    color: rgb(139, 198, 62) !important;
+}

@@ -1,0 +1,33 @@
+.form-text {
+    font-weight: bold;
+}
+
+.form-login {
+    margin-left: 433px !important;
+}
+
+.form-input {
+    border-radius: 0 !important;
+    background-color: #f7f7f7;
+    outline: none !important;
+    box-shadow: none !important;
+    width: 100%;
+}
+
+.btn-button {
+    color: #fff;
+    background: #6ac700;
+    border: 1px solid #6ac700;
+    border-radius: 0 !important;
+    padding: 7px 213px;
+    font-weight: bold;
+}
+
+.err {
+    color: tomato;
+}
+
+.form-submit{
+    margin: 0 auto !important;
+    width: 500px;
+}

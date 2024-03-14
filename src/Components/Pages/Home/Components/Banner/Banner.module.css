@@ -1,0 +1,13 @@
+.banner {
+    display: flex;
+    flex-wrap: wrap;
+}
+.banner-img{
+    width: 50%;
+    padding: 0px 10px;
+    overflow: hidden;
+}
+.banner-img img:hover{
+    transition: 0.25 linear;
+    transform: scale(1.1);
+}

@@ -1,0 +1,36 @@
+.acc:hover {
+    color: #60ac56;
+}
+.border-custom {
+    --color: #f5f5f5;
+    --position: left bottom;
+    --width: 80%;
+    --height: 2px;
+    background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+    padding-bottom: 7px;
+    font: bold 2.5rem sans-serif;
+  }
+
+.all-product {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -365%);
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.text-product {
+    color: black;
+    font-weight: 500;
+}
+
+.text-product:hover {
+    color: #60ac56;
+}
+
+.prices {
+    font-weight: 600;
+}
+

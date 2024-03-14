@@ -1,0 +1,20 @@
+.bg-footer{
+    background: #1f2a37;
+    border-bottom: 1px solid #fff;
+}
+.footer-infor{
+    color: #fff;
+}
+.footer-infor-icon{
+    font-size: 20px;
+    margin-top: 4px;
+}
+.footer-link{
+    background: #1f2a37;
+}
+.icons{
+    font-size: 25px;
+}
+.footer-p{
+    padding: 0px 10px;
+}

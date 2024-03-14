@@ -1,0 +1,14 @@
+.card{
+    border: none;
+}
+.card-new{
+    width: 90%;
+}
+.text-header{
+    color: #111;
+    font-weight: bold;
+    font-size: 15px;
+}
+.text-header:hover{
+    color: #43850d;
+}

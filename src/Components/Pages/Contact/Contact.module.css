@@ -1,0 +1,23 @@
+.form-text{
+    font-weight: bold;
+}
+.form-input{
+    border-radius: 40px !important;
+    background-color: #f7f7f7;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn-button{
+    color: #fff;
+    background: #6ac700;
+    border: 1px solid #6ac700;
+    border-radius: 40px !important;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+.map{
+    border: none;
+}
+.err{
+    color: tomato;
+}

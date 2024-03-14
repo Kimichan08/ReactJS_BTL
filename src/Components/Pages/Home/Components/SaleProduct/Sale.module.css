@@ -1,0 +1,14 @@
+.bg-sale{
+    background-image: url(../../../../../Assets/boffsale.png);
+}
+.text-sale{
+    font-size: 28px;
+    font-weight: 700;
+}
+.text-infor{
+    font-size: 18px;
+    color: #548021;
+}
+.prod{
+    width: 25% !important;
+}

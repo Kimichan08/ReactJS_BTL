@@ -1,0 +1,12 @@
+.card{
+    border: none;
+    box-shadow: none !important;
+}
+
+.text-header{
+    font-weight: bold;
+    font-size: 17px;
+}
+.text-header:hover{
+    color: #43850d;
+}

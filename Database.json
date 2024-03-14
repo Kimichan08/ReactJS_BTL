@@ -1,0 +1,204 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Cây văn phòng"
+    },
+    {
+      "id": 2,
+      "name": "Thân cỏ"
+    },
+    {
+      "id": 3,
+      "name": "Thân gỗ"
+    },
+    {
+      "id": 4,
+      "name": "Thân lá"
+    },
+    {
+      "id": 5,
+      "name": "Thân leo"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "prod_name": "Cây trầu bà Nhật",
+      "prices": 150,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cc639fffb86d487121ea7c43585374f4-8c477211-4623-4031-a53f-106baacd4437-cf5c5d4c-3477-4098-9d6b-1c297d054db6.jpg?v=1572362555000",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "prod_name": "Sen đá hoa hồng",
+      "prices": 99,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/sen-da-bao-xanh-600x600-8e4b55d3-62ae-4fc0-9d26-f61dcc5137eb-406747e8-792e-40f2-8f96-a6ec7db44d33.jpg?v=1572362361130",
+      "category_id": 4
+    },
+    {
+      "id": 3,
+      "prod_name": "Cây Lan ý nhập khẩu",
+      "prices": 145,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-tung-la-han-800x800-2ed2532e-3f91-41f7-8dce-5f8bec4ede32.jpg?v=1572362262627",
+      "category_id": 5
+    },
+    {
+      "id": 4,
+      "prod_name": "Cây lan quân tử",
+      "prices": 165,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-lan-quan-tu-chau-dia-van-den-trang-336b8c85-4984-4074-9f49-3582178483f5.jpg?v=1571903701787",
+      "category_id": 4
+    },
+    {
+      "id": 5,
+      "prod_name": "Cây tùng la hán",
+      "prices": 99,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-tung-la-han-02-e9a5df87-6257-4a0e-a876-ed344f6eff72.jpg?v=1571903537587",
+      "category_id": 1
+    },
+    {
+      "id": 6,
+      "prod_name": "Chậu kim tiền loại vuông",
+      "prices": 200,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-kim-tien-chau-vuong-vat-day-70c53a3e-eb99-47fa-acb7-73233050abfc-e5ca75b0-8236-4701-83ab-80362bf136d9-e0e3cb28-355f-435c-9c5d-f667dd289a4c.jpg?v=1572362511467",
+      "category_id": 1
+    },
+    {
+      "id": 7,
+      "prod_name": "Cây tướng quân lá to",
+      "prices": 130,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-phu-quy-de-ban-0926275c-129c-41b1-a410-b971b17ebad0-21e47a23-4adb-4aac-8f8a-425f1c56d301.jpg?v=1572362314463",
+      "category_id": 5
+    },
+    {
+      "id": 8,
+      "prod_name": "Cây trúc phú quý",
+      "prices": 130,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-truc-phu-quy-chau-trai-tim-1-9c1592e7-1685-42d3-a7b2-83c63f0df56b.jpg?v=1571903801000",
+      "category_id": 2
+    },
+    {
+      "id": 9,
+      "prod_name": "Cây hồng môn",
+      "prices": 220,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/32-74a0da84-c043-484a-a329-5654fb38bee0.jpg?v=1571903626483",
+      "category_id": 2
+    },
+    {
+      "id": 10,
+      "prod_name": "Cây lưỡi hổ",
+      "prices": 155,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-luoi-ho-de-ban.jpg?v=1571903310880",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "prod_name": "Cây nhất mạt hương",
+      "prices": 70,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-nhat-mat-huong-chau-dia-trang-ef4dedd3-0c28-4e95-ac63-936dbe8baff0.jpg?v=1571903139913",
+      "category_id": 4
+    },
+    {
+      "id": 12,
+      "prod_name": "Cây ngọc bích",
+      "prices": 85,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-ngoc-bich-03.jpg?v=1571903014007",
+      "category_id": 3
+    },
+    {
+      "id": 13,
+      "prod_name": "Cây trầu bà thái",
+      "prices": 95,
+      "quantity": 2,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/5d2ef3421cce0-ban-cay-trau-ba-de-vuong-96554211-68a9-46c9-9831-e72d06bebf7b.jpg?v=1571902835520",
+      "category_id": 1
+    },
+    {
+      "id": 14,
+      "prod_name": "Cây hoa trà",
+      "prices": 65,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/e90609963ef8be3c1d91fa940fc6df49.jpg?v=1571902723000",
+      "category_id": 3
+    },
+    {
+      "id": 15,
+      "prod_name": "Cây kim ngân",
+      "prices": 120,
+      "quantity": 1,
+      "main_image": "https://bizweb.dktcdn.net/thumb/medium/100/369/168/products/cay-kim-ngan-thuy-sinh-01.jpg?v=1571902326607",
+      "category_id": 3
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "8 tuyệt chiêu để chăm sóc cây cảnh",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/369/168/articles/bakes-800x500.jpg?v=1571904520227",
+      "dateTime": "24/10/2019",
+      "content": "Cây cảnh cũng như con người chúng ta, chúng cũng có thể bị tổn thương bởi nắng gắt hay mất nước trong những ngày nắng hè khi nhiệt độ vượt quá 35°C. Thay đổi chế độ tưới nước, ánh sáng, điều chỉnh một số điều kiện khác sẽ giúp ích rất nhiều cho việc chăm sóc chúng trở nên dễ dàng hơn. Những cây ưa độ ẩm cao (thực vật biểu sinh và cây vùng nhiệt đới như cây cẩm nhung Fittonia (lá may mắn), cây đuôi công và các cây họ dương xỉ) cần được giữ ẩm thường xuyên trong những đợt nóng. Các bạn cũng có thể đặt chậu cây trên một đĩa đựng đầy sỏi và nước để tạo ra một vùng “tiểu khí hậu ẩm” nhỏ giúp các bé cây sống sót qua mùa hè. Đặc biệt lưu ý cây Lan ý (Peace Lily) cực kì ưa ẩm nên bạn phải tưới hàng ngày, nếu thiếu nước cây sẽ chuyển sang khô héo cực nhanh. Nhưng đừng lo lắng, bạn hãy mang ngay cây vào chỗ thật ẩm ướt, đặt cây vào một chậu nhỏ ngập phần đất trong vòng một ngày liên tục, bạn sẽ thấy điều kỳ diệu xảy ra với cây."
+    },
+    {
+      "id": 2,
+      "title": "Tuổi giáp tuất năm 1994 hợp cây gì?",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/369/168/articles/sfs.jpg?v=1571904385297",
+      "dateTime": "24/10/2019",
+      "content": "Cây phong thủy để bàn vốn luôn được biết đến là một loại cây được ưa chuộng và sử dụng rộng khắp trong cuộc sống thường ngày của chúng ta, tuy nhiên chúng có rất nhiều loại với những ý nghĩa khác nhau và thật khó để có thể lựa chọn được một loại cây ưng ý."
+    },
+    {
+      "id": 3,
+      "title": "Tuổi Nhâm Tuất năm 1982 hợp cây gì?",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/369/168/articles/nextbuild-9.jpg?v=1571904246600",
+      "dateTime": "24/10/2019",
+      "content": "Cây phong thủy cũng có rất nhiều loại khác nhau mỗi loại có một đặc điểm riêng biệt và bởi vậy trong bài viết ngắn này Cây Xinh sẽ giới thiệu tới quý bạn đọc hình ảnh, thông tin về một số loại cây phong thủy hợp tuổi Nhâm Tuất năm 1982. Qua bài viết này cũng hi vọng những bạn tuổi Nhâm Tuất có thể lựa chọn được loại cây cảnh để bàn hợp phong thủy phù hợp với mình."
+    },
+    {
+      "id": 4,
+      "title": "Cây cẩm nhung độc lạ trong chậu gốm Akada",
+      "images": "https://bizweb.dktcdn.net/thumb/large/100/369/168/articles/sen-da-thai-800x500.jpg?v=1571904096703",
+      "dateTime": "24/10/2019",
+      "content": "Cây cẩm nhung đã quá đỗi quen thuộc với chúng ta những người yêu cây cảnh, thích cây cảnh mini để bàn làm việc. Ở bài viết mới đây Cây Xinh đã gửi tới quý bạn đọc bộ sưu tập những mẫu cây cẩm nhung trang trí trong chậu sắt mini rất dễ thương và tiếp tục trong bài viết ngắn này Cây Xinh sẽ tiếp tục gửi tới quý bạn đọc bộ sưu tập cây cẩm nhung trồng trong chậu gốm Akada. Xin mời các bạn cùng chiêm ngưỡng."
+    },
+    {
+      "id": 5,
+      "title": "Cách chăm sóc cây cảnh trong nhà để cây luôn xanh và phát triển tốt",
+      "images": "http://kayxau.com/assets/images/blog-img/Mask%20Group%208.png",
+      "dateTime": "24/10/2019"
+    },
+    {
+      "id": 6,
+      "title": "Cây cảnh mini phù hợp để trong nhà",
+      "images": "http://kayxau.com/assets/images/blog-img/Mask%20Group%2011.png ",
+      "dateTime": "24/10/2019"
+    }
+  ],
+  "user": [
+    {
+      "name": "demo",
+      "phone": "0987218885",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "demo",
+      "phone": "0987218885",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}

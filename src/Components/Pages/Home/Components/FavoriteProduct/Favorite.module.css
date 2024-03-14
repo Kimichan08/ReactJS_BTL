@@ -1,0 +1,16 @@
+.prod {
+    width: 20% !important;
+}
+
+.text-product {
+    color: black;
+    font-weight: 500;
+}
+
+.text-product:hover {
+    color: #60ac56;
+}
+
+.prices {
+    font-weight: 600;
+}
